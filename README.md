@@ -1,3 +1,4 @@
 # HTML
-Hi , so this is my repository for all my HTML works. This repository includes .txt file of webpages that i have designed.
-This Repository contains Demo webpages / website
+Hi , So This Is My Repository For All My HTML/CSS/JavaScript Works. 
+This Repository Includes .txt/.html File Of Webpages That I Have Designed/Created.
+This Repository Contains Demo Webpages / websites Along With Its Domain.
